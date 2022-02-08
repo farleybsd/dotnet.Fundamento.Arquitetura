@@ -1,0 +1,42 @@
+// OO = Devemos sempre procurar o baixo 
+acoplamento (Uma depedencia direta entre um objeto e outro Quando um objeto muda o outro
+muda por consequencia)
+ e a alta coesao( Objetos executando uma unica responsabilidade livre de uma depedencia
+ direta com outro objeto)
+
+
+
+// Estado
+
+
+// Comportamento
+
+
+//Abstracao
+
+
+//Heranca
+
+
+//Polimofismo
+
+
+//Encapsulamento
+
+
+
+Diferenca entre Comportamento(metodo) abstract
+para vitual
+
+//Apenas Uma Assinatura que sera emplementado
+pela classe que fara sua Heranca
+
+public abstract void ligar();
+
+
+// Esse metodo mante a implementacao no pai
+mas podendo ser sobrescrita no filho
+
+public vitual void Testar(){
+    // faca o que quiser
+}
