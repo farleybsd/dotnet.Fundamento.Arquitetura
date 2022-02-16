@@ -1,0 +1,2 @@
+INdicacao de DI
+https://docs.simpleinjector.org/en/latest/quickstart.html
