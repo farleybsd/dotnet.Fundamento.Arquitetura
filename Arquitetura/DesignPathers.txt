@@ -1,0 +1,19 @@
+Criacional: (Criar objetos da forma correta)
+Fornecem meios de criacao de um objeto e de como ele sera instanciado.
+
+Abstract Factory: (Mais Usado Parecido com Ocp) Produtor de Produto ou Fabrica de Fabricas
+
+Cria uma instancia de diversas familias de classes.
+
+Factory Method:
+Cria uma instancia de diversas derivacoes de classes
+
+Singleton:
+Cria uma unica instancia que sera utilizada por seus recursos
+
+
+Estrutural: (Modelagem de objetos)
+Tratam da composicao de objetos por herancas e interfaces para diferentes funcionalidades.
+
+Comportamental: (interacao entre Objetos)
+Tratam das interacoes e comunicacao entre os objeto alem da divisao de responsabilidade
