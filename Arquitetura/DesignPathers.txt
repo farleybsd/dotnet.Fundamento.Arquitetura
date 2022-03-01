@@ -7,6 +7,8 @@ Cria uma instancia de diversas familias de classes.
 
 Factory Method:
 Cria uma instancia de diversas derivacoes de classes
+Uma interface para criar um objeto especifico voce tem um metodo que retorna uma factory de um objeto concreto,
+quando vc tem um metodo que tem comportamento diferente em varios objetos
 
 Singleton:
 Cria uma unica instancia que sera utilizada por seus recursos
